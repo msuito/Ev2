@@ -1,0 +1,150 @@
+body{
+    background-image: url("img/fondo.jpg");
+    Background-repeat:no-repeat;
+    Background-size:cover;
+    background-attachment: fixed;
+} 
+
+
+
+.mi-nav{
+  background-color: #34A949;
+  
+  color: white
+}
+
+.container{
+  background-color: #34A949;
+  top: 200px;
+  width: 500px;
+  color: white;
+  margin: 0 auto;
+  border-radius: 10px;
+}
+
+.mi-nav2{
+  background-color: white;
+}
+
+.navbar.border-bottom {
+    border-bottom-width: 1px !important;
+    border-color: black !important;
+  }
+
+  .formulario-ingreso{
+    background-color: #34A949;
+    float: right;
+    position: fixed;
+    right: 0;
+    margin-right: 20px;
+    margin-top: 20px;
+    border: 1px solid #ccc;
+    padding: 20px;
+    width: 30%;
+    height: 50%;
+    box-shadow: 0 0 10px #ccc;
+    border-radius: 10px;
+    display: flex; 
+    align-items: center; 
+    justify-content: center; 
+  }
+  .formulario-registro{
+    display: flex; 
+    align-items: center; 
+    justify-content: center; 
+    border: 1px solid #ccc;
+    width: 75%;
+    height: 50%;
+    margin: auto;
+    margin-top: 10%;
+    box-shadow: 0 0 10px #ccc;
+    background-color: #34A949;
+    border-radius: 10px;
+    padding: 50px;
+    color: white;
+  }
+  
+  .datos-formulario{
+    margin-bottom: 10px;
+  }
+  
+  label {
+    font-weight: bold;
+  }
+  
+  .ingreso-datos {
+    width: 100%;
+    padding: 10px;
+    border: 1px solid #ccc;
+    border-radius: 3px;
+    box-sizing: border-box;
+  }
+  
+  .btn-ingreso {
+    background-color: black;
+    border: none;
+    color: #fff;
+    padding: 10px 20px;
+    border-radius: 3px;
+    cursor: pointer;
+  }
+  
+  .btn-ingreso:hover {
+    background-color: white;
+    border-style: solid;
+    border-color: black;
+    color: black;
+  }
+
+  .contenedor-imagenes{
+    margin-top: 50px;
+    margin-left: 20px;
+    width: 60%;
+    height: 70%;
+  }
+  
+  .row {
+    display: flex;
+    flex-wrap: wrap;
+    margin-right: -15px;
+    margin-left: -15px;
+  }
+  
+  .col-4 {
+    flex: 0 0 auto;
+    width: 33.33333%;
+    padding-right: 15px;
+    padding-left: 15px;
+  }
+  
+  .img-fluid {
+    max-width: 100%;
+    height: auto;
+  }
+  
+
+
+  .contenedor-productos-p{
+    background:none;
+    height: 400px;
+    width: 800px;
+    margin-top: 50px;
+    padding: 20px;
+    color: white
+  }
+
+
+
+  .contenedor-inicio-p{
+    margin: auto;
+    width: 100%;
+    color: white;
+    padding-left: 600px;
+ 
+  }
+
+
+
+
+  
+  
